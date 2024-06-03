@@ -2,5 +2,5 @@ prompt utilizado <br>
 
 faça um texto para ebook, com o foco no figma, listando os atalhos e como utilizar o programa<br>
 {Regras}<br>
-Esplique de maneira simples
+Esplique de maneira simples<br>
 deixe o texto enxuto
